@@ -3,6 +3,10 @@
 
 #include <stddef.h>
 #include <stdlib.h>
+#include <string.h>
+#include <stdio.h>
+#include <limits.h>
+
 /**
  * struct binary_tree_s - Binary tree node
  * @n: Integer stored in the node
